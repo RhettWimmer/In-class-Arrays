@@ -12,7 +12,7 @@ myArray[0] = cat;
 myArray[1] = dog;
 myArray[2] = fish;
 
-/* Arrays work like a list that contains multible variables.
+/* Arrays work like a list that contains likewise items.
     It's pesky to write myArray over and over again, so we can write
     Arrays all in one line like this */
 int[] myArray = {cat, dog, fish};
