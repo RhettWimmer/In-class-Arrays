@@ -41,4 +41,11 @@ void void Start()
     {
         Debug.Log("There are "+i+" Many chickens" +chickens[i].chickens);
     }
+    
+//Some Examples
+//Public Array
+Public int[] cats = new int[13];
+//Private Array
+int[] cats = new int[13];
+
 }
