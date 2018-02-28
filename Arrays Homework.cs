@@ -1,9 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Arrays : MonoBehaviour {
-
 //Unlike functions that use (), Arrays use []
 public GameObject[] title;
 
@@ -48,4 +42,10 @@ Public int[] cats = new int[13];
 //Private Array
 int[] cats = new int[13];
 
-}
+//More Examples
+Public int[] birds = {raven, crow, owl};
+Public int[0] = raven;
+Public int[1] = crow;
+Public int[2] = owl;
+int [3] = secretBird;
+
